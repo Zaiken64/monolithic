@@ -1,4 +1,4 @@
-FROM lancachenet/generic:latest
+FROM arm64v8/ubuntu:bionic
 MAINTAINER LanCache.Net Team <team@lancache.net>
 
 ENV GENERICCACHE_VERSION 2
